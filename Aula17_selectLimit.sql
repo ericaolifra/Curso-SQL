@@ -1,0 +1,1 @@
+SELECT nome, sobrenome FROM pessoas LIMIT 10;
